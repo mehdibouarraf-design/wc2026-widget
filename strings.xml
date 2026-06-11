@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WC 2026 Widget</string>
+    <string name="widget_description">Coupe du Monde 2026 — scores en direct &amp; classements</string>
+    <string name="widget_label">Coupe du Monde 2026</string>
+
+    <string name="header_title">Coupe du Monde 2026</string>
+    <string name="live">EN DIRECT</string>
+    <string name="upcoming">À venir</string>
+    <string name="group_standings">Classement du groupe %1$s</string>
+    <string name="no_match">Aucun match en direct — la compétition commence le 11 juin</string>
+    <string name="tournament_starts">La compétition commence le 11 juin 2026</string>
+    <string name="vs">%1$s  vs  %2$s</string>
+
+    <string name="settings_title">Réglages du widget Coupe du Monde 2026</string>
+    <string name="group_label">Groupe</string>
+    <string name="fav_team_label">Votre équipe favorite</string>
+    <string name="refresh_now">Actualiser le widget</string>
+    <string name="select">Choisir</string>
+    <string name="selected">Sélectionné ✓</string>
+    <string name="open_settings">Groupe &amp; favoris ↗</string>
+</resources>
